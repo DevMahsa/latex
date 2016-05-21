@@ -11,7 +11,7 @@
 \usepackage{graphicx}
 \usepackage{enumerate}
 %\addbibresource{bibliography.bib} % Specify the bibliography file to include publications
-\title{An example with \latex}
+\title{An example with \LaTeX}
 \begin{document}
 \date
 \abstract{ This is an exmaple abstract. Hope you like it.}
