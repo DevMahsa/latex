@@ -1,0 +1,21 @@
+#sudo  yum / apt-get install -y texlive-full
+# Second, you could create a folder by mkdir then goes through it by cd 
+# vim file.tex
+# then press insert keyboard
+% Specify the documentclasses (articles, resume, ...), bibliographies, font size in print version, author, title and packages such as follows 
+\documentclass[10pt]{article}
+ % Add 'print' as an option into the square bracket to remove colors from this template for printing
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{enumerate}
+%\addbibresource{bibliography.bib} % Specify the bibliography file to include publications
+\title{An example with \latex}
+\begin{document}
+\date
+\abstract{ This is an exmaple abstract. Hope you like it.}
+\end{document}
+%%press :wq
+# latex file.tex
+# dvipdf file.dvi
