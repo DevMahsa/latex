@@ -19,3 +19,4 @@
 %%press :wq
 # latex file.tex
 # dvipdf file.dvi
+# evience file.pdf
