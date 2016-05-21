@@ -3,5 +3,5 @@ This Document has been provided by me in order to help who wants to begin workin
 Hope it can help.
 //sudo  yum / apt-get install -y texlive-full
 //Second, you could create a folder by mkdir then goes through it by cd
-//third, vim file.tex
-//forth, goto the tutorial.
+//Third, vim file.tex
+//Forth, goto the tutorial.
