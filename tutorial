@@ -15,6 +15,9 @@
 \begin{document}
 \date
 \abstract{ This is an exmaple abstract. Hope you like it.}
+\section{Introduction}
+\section{Theory}
+\section{Results}
 \end{document}
 %%press :wq
 # latex file.tex
